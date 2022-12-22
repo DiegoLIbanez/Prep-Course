@@ -38,7 +38,7 @@ function suma(x = 1 , y = 2) {
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
 
-  resulato = x + y === 3
+  resulato = x + y === 3 
 }
 
 function resta(x, y) {

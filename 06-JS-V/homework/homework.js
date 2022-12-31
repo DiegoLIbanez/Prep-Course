@@ -18,7 +18,6 @@ function crearUsuario() {
     }
     saludar() {
       return `Hola, mi nombre es ${this.nombre}`
-
     }
     
   }
